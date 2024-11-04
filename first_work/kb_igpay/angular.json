@@ -99,6 +99,7 @@
       }
     }
   },
+  "defaultProject": "kb_igpay",
   "cli": {
     "analytics": "95e06cc0-b1a6-449a-8d71-d9db6b29cf36"
   }
