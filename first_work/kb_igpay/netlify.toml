@@ -1,0 +1,7 @@
+[build]
+  base = "/"
+  publish = "dist/kb_igpay"
+  command = "ng build --configuration production"
+
+[build.environment]
+  NODE_ENV = "production"
